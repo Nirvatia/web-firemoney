@@ -1,8 +1,8 @@
 # Landing Page - Fire Money
 
-## Deploy
+## Deployment
 
-https://vizereth.github.io/template-loan-firemoney
+https://vizereth.github.io/web-firemoney
 
 ## Project setup
 ```

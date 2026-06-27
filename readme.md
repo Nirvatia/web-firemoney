@@ -1,9 +1,5 @@
 # Landing Page - Fire Money
 
-## Deployment
-
-https://vizereth.github.io/web-firemoney
-
 ## Project setup
 ```
 npm install
